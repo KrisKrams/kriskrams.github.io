@@ -4,6 +4,7 @@ title:  Die Sache mit dem Bloggen
 date:   2018-03-20 22:04:00 +0100
 categories: random
 author: kriskrams
+cover:  "/assets/covers/flowers.jpg"
 ---
 
 Ich weiß auch selbst noch nicht so genau was das hier werden soll.
