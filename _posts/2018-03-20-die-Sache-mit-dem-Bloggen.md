@@ -1,16 +1,20 @@
 ---
 layout: post
-title:  Die Sache mit dem Bloggen
+title:  bloggen - muss das sein?
 date:   2018-03-20 22:04:00 +0100
 categories: random
 author: kriskrams
 cover:  "/assets/covers/flowers_2.jpg"
 ---
 
-Ich weiß auch selbst noch nicht so genau was das hier werden soll.
+Eigentlich habe ich schon immer Lust zu schreiben.
+Von circa 2004 bis 2010 habe ich meinen Tagebuch-Blog auf myblog.de geführt (achja das waren Zeiten) und über die Schule, <br>
+das Studium, Konzerte und meine Gedanken geschrieben.
+Irgendwie war ich dann zu erwachsen für so etwas - aber eigentlich hätte ich am liebsten weiter geschrieben.
 
-Vielleicht brauche ich eine Art Tagebuch, um mich durch die 30er Krise zu bringen. <br>
-Vielleicht entsteht hier aber auch Allerwelts-Content über DIY, Bücher, Musik, Handarbeit… die Klassiker!<br>
-Und wer weiß, vielleicht fällt mir ja auch etwas Kreativeres ein.<br>
-Vielleicht lasst ihr euch einfach mal überraschen – und ich mich auch.
+Scheinbar ist es jetzt mit Ende Zwanzig und acht Jahre später wieder Zeit etwas neues anzufangen.
+Was das hier wird weiß ich noch nicht. Ich habe keine Lust mich auf etwas festzulegen, deshalb wird es <br>
+vermutlich etwas wie damals werden, nur vielleicht ein bisschen professioneller?
 
+Wir werden es gemeinsam herausfinden!
+**Have fun :)**
