@@ -14,7 +14,7 @@ ist es schön sich selbst auferlegte Aufgaben zu schaffen - die man dann gedankl
 Ich habe mich deshalb entschieden, die **\#onebookamonth challenge** zu machen.  
 Nachdem es letztes Jahr schon irgendwie von selbst angefangen hat, dachte ich, mache ich es zu einem Projekt!
 
-/assets/covers/books.jpg
+![März-Buch](/assets/covers/challenge-yourself.jpg)
 
 Mein Buch für den März ist **Slow Travel** von **Dan Kieran**
 
