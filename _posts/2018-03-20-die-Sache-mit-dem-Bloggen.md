@@ -13,8 +13,8 @@ das Studium, Konzerte und meine Gedanken geschrieben.
 Irgendwie war ich dann zu erwachsen für so etwas - aber eigentlich hätte ich am liebsten weiter geschrieben.
 
 Scheinbar ist es jetzt mit Ende Zwanzig und acht Jahre später wieder Zeit etwas neues anzufangen.
-Was das hier wird weiß ich noch nicht. Ich habe keine Lust mich auf etwas festzulegen, deshalb wird es <br>
+Was das hier wird weiß ich noch nicht. Ich habe keine Lust mich auf etwas festzulegen, deshalb wird es
 vermutlich etwas wie damals werden, nur vielleicht ein bisschen professioneller?
 
-Wir werden es gemeinsam herausfinden!
+Wir werden es gemeinsam herausfinden! <br>
 **Have fun :)**
