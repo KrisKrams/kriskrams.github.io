@@ -7,11 +7,17 @@ author: kriskrams
 cover:  "/assets/covers/challenge-yourself.jpg"
 ---
 
+# \#onebookamonth
 Ich merke, dass es mir gut tun mir selbst Aufgaben zu geben.  
-Neber der Arbeit, Haushalt und den sonstigen Pflichten denen man gezwungenermaßen nachgehen muss,  
+Neben Job, Haushalt, Garten und den sonstigen Pflichten denen man gezwungenermaßen nachgehen muss,  
 ist es schön sich selbst auferlegte Aufgaben zu schaffen.
 
-**#onebookamonth im März - Slow Travel von Dan Kieran**
+Ich habe mich deshalb entschieden, die **\#onebookamonth challenge** zu machen.  
+Nachdem es letztes Jahr schon irgendwie von selbst angefangen hat, dachte ich, mache ich es zu einem Projekt!
+
+\assets\
+
+Januar: 
 
 
 
